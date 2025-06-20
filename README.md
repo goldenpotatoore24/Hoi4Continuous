@@ -27,8 +27,11 @@ The AI takes over the countries of the other two players who are playing. This r
 If you want more details about each script, read here:
 
 hotjoin1.ahk - Accepts hotjoins from players
+
 playerleave.ahk - clicks the 'decline' button, when asked if the host wants AI to take over the nation of a player who leaves the game.
+
 startscript.ahk - After someone hotjoins, the game is sent to the multiplayer lobby, where the host has to press the start button after the players are ready. This script presses that button.
+
 upause.ahk - looks for the color of the pause symbol that flashes in the top right corner when paused. Clicks it. So the game will never stay paused, whether paused by a player or by someone leaving.
 
 All the png files must be in the same directory as these scripts, as the scripts use them to find ui elements. I probably should've added a hotkey to end all the scripts, but I was lazy, so you can just close them each using task manager.
