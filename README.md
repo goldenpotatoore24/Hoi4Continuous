@@ -16,9 +16,9 @@ It is currently designed as so:
 
 The correct load order for the mod is as so:
 
-BlackICE Events GFX
-BlackICE
-Hoi4 Concurrent
+- BlackICE Events GFX
+- BlackICE
+- Hoi4 Concurrent
 
 
 The only current obstacle for me is that if I need to use my computer for something else, or maybe a desync happens, or my internet goes out, and i need to rehost; 
